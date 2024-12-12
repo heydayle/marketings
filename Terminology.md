@@ -58,7 +58,7 @@
    **Share of Voice** refers to the percentage of total advertising or media presence that a brand occupies in comparison to its competitors. It's a metric used to understand a brand’s visibility in the market.
 
    **Formula:**  
-   \[ \text{SOV} = \frac{\text{Brand's Advertising or Media Spend}}{\text{Total Market's Advertising or Media Spend}} \times 100 \]
+   ![image](https://github.com/user-attachments/assets/abeb1f21-8255-47b4-8ce6-f90b877a2425)
 
    **Example:**
    - If Brand A spends $1 million on advertising in a market where the total spend is $10 million, Brand A has a 10% share of voice.
@@ -157,7 +157,8 @@ Dưới đây là bản dịch nội dung mà không dịch các thuật ngữ c
    **SOV (Share of Voice)** là tỷ lệ phần trăm tổng quảng cáo hoặc sự hiện diện truyền thông mà thương hiệu chiếm lĩnh so với các đối thủ cạnh tranh. Đây là một chỉ số được sử dụng để hiểu sự hiện diện của thương hiệu trên thị trường.
 
    **Công thức tính:**  
-   \[ \text{SOV} = \frac{\text{Chi tiêu quảng cáo của thương hiệu}}{\text{Chi tiêu quảng cáo tổng thị trường}} \times 100 \]
+   
+   ![image](https://github.com/user-attachments/assets/228b816b-7edc-424e-8bc7-8fbb59818639)
 
    **Ví dụ:**  
    - Nếu Thương hiệu A chi tiêu 1 triệu USD cho quảng cáo trong một thị trường có tổng chi tiêu là 10 triệu USD, thì Thương hiệu A có 10% thị phần truyền thông.
